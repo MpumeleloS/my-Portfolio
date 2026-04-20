@@ -105,6 +105,50 @@ Tutor
 
 ---
 
-## Mock Interview
+## 🧠 Reflection on Coding in Markdown (STAR Method)
 
-Click here to watch my interview(https://github.com/MpumeleloS/my-cv/blob/main/Interview.mp4)
+**Situation:**  
+I was required to create a digital portfolio using GitHub and present my CV using Markdown.
+
+**Task:**  
+My task was to convert my CV into a structured and readable format using Markdown syntax.
+
+**Action:**  
+I used Markdown features such as headings, lists, and links to organize my CV content clearly and professionally.
+
+**Result:**  
+I successfully created a well-structured CV using Markdown, improving my understanding of how developers present information on GitHub.
+
+---
+
+## 🎤 Reflection on Mock Interview (STAR Method)
+
+**Situation:**  
+As part of the portfolio, I had to record a mock interview.
+
+**Task:**  
+My task was to present myself professionally and answer interview questions clearly.
+
+**Action:**  
+I prepared answers, practiced speaking, and recorded the video while focusing on confidence and communication.
+
+**Result:**  
+This helped improve my communication skills and boosted my confidence for real interviews.
+
+---
+
+## 🌐 Reflection on GitHub Pages (STAR Method)
+
+**Situation:**  
+I needed to publish my portfolio online.
+
+**Task:**  
+My task was to deploy my work using GitHub Pages.
+
+**Action:**  
+I created and uploaded my files to GitHub, configured GitHub Pages, and ensured my portfolio was accessible via a live link.
+
+**Result:**  
+I successfully published my portfolio online and gained practical experience in hosting websites.
+
+---
