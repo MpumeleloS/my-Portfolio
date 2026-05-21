@@ -3,13 +3,14 @@
 📞 081 826 6546  
 📧 230526934@mycput.ac.za  
 📍 Adderley Street, Foreshore, Cape Town, 8001  
-🔗 GitHub: https://github.com/MpumeleloS  
+🔗 GitHub: https://github.com/MpumeleloS
+🔗 Linkedin: www.linkedin.com/in/mpumelelo-sithole-10371a288
 
 ---
 
 ## OBJECTIVE
 
-Motivated ICT student pursuing a Diploma in Applications Development, seeking hands-on experience in software development, app design, or IT support. Eager to contribute programming, problem-solving, and teamwork skills to a dynamic environment.
+Motivated Third Year ICT student pursuing a Diploma in Applications Development, seeking hands-on experience in software development, app design, or IT support. Eager to contribute programming, problem-solving, and teamwork skills to a dynamic environment.
 
 ---
 
@@ -52,7 +53,13 @@ English (FAL), IsiZulu (HL), Geography, Life Sciences, Physical Sciences, Mathem
 - App Prototyping  
 - Problem-solving  
 - Analytical Thinking  
-- Teamwork  
+- Teamwork
+- Computer Hardware Basics
+- Basic Networking
+- Cybersecurity Awareness
+- Troubleshooting
+- Git & GitHub
+- Cisco Packet Tracer
 
 ---
 
